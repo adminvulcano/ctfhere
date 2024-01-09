@@ -17,4 +17,5 @@ The setup is cursed and even dangerous. Your computer *shouldn't* break, but I w
 
 ## TODO
 
+* Change ssh connection method. As of now, it only works with rsa and non-password protected keys
 * patch pwninit so that it also makes binaries whose libs are linked with a relative path have them linked with an absolute path.
